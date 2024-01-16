@@ -2,7 +2,7 @@
 
 ## Services
 
-Serverless application using VPC, EC2, RDS, EFS, ELB, Health Checks, IAM roles and Policies
+Serverless application using VPC, EC2, RDS, EFS, ASG, ELB, Health Checks, IAM roles and Policies
 
 
 ## Stages
