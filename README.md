@@ -1,5 +1,10 @@
 # WebsiteBlogAWS
 
+## Services
+
+Serverless application using VPC, EC2, RDS, EFS, ELB, Health Checks, IAM roles and Policies
+
+
 ## Stages
 
 1. **STAGE 1**: Configure VPC, subnets, EC2
@@ -7,10 +12,6 @@
 3. **STAGE 3**: RDS system added
 4. **STAGE 4**: EFS system Added 
 5. **STAGE 5**: ELB added with scaling for EC2 Instances. In addtion, health checks added.
-
-## Services
-
-Serverless application using S3, API Gateway, Lambda, Step Functions, SNS & SES.
 
 
 ### Final Architecture 
